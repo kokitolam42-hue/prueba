@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 print("hola hola tomate jamon");
+=======
+print("hola hola hola hola");
+>>>>>>> parent of 6b34e85 (cambio #2)
